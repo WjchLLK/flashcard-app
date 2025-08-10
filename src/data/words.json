@@ -1,0 +1,796 @@
+{
+    "words": [
+        {
+            "language1": "pensare",
+            "language2": "myśleć",
+            "example_1": "Penso che oggi pioverà.",
+            "example_2": "Myślę, że dziś będzie padać."
+        },
+        {
+            "language1": "andare",
+            "language2": "iść",
+            "example_1": "Domani andiamo al mare.",
+            "example_2": "Jutro idziemy nad morze."
+        },
+        {
+            "language1": "il gatto",
+            "language2": "kot",
+            "example_1": "Il gatto dorme sul divano.",
+            "example_2": "Kot śpi na kanapie."
+        },
+        {
+            "language1": "amare",
+            "language2": "kochać",
+            "example_1": "Amo ascoltare la pioggia di notte.",
+            "example_2": "Kocham słuchać deszczu w nocy."
+        },
+        {
+            "language1": "scuola",
+            "language2": "szkoła",
+            "example_1": "La scuola è aperta dalle otto.",
+            "example_2": "Szkoła jest otwarta od ósmej."
+        },
+        {
+            "language1": "mangiare",
+            "language2": "jeść",
+            "example_1": "Mi piace mangiare la pizza calda.",
+            "example_2": "Lubię jeść gorącą pizzę."
+        },
+        {
+            "language1": "bere",
+            "language2": "pić",
+            "example_1": "Devo bere più acqua.",
+            "example_2": "Muszę pić więcej wody."
+        },
+        {
+            "language1": "famiglia",
+            "language2": "rodzina",
+            "example_1": "La mia famiglia vive a Roma.",
+            "example_2": "Moja rodzina mieszka w Rzymie."
+        },
+        {
+            "language1": "libro",
+            "language2": "książka",
+            "example_1": "Sto leggendo un libro interessante.",
+            "example_2": "Czytam interesującą książkę."
+        },
+        {
+            "language1": "casa",
+            "language2": "dom",
+            "example_1": "Torno a casa tardi.",
+            "example_2": "Wracam do domu późno."
+        },
+        {
+            "language1": "amico",
+            "language2": "przyjaciel",
+            "example_1": "Il mio amico lavora in banca.",
+            "example_2": "Mój przyjaciel pracuje w banku."
+        },
+        {
+            "language1": "amica",
+            "language2": "przyjaciółka",
+            "example_1": "La mia amica studia medicina.",
+            "example_2": "Moja przyjaciółka studiuje medycynę."
+        },
+        {
+            "language1": "scoprire",
+            "language2": "odkryć",
+            "example_1": "Voglio scoprire nuovi posti.",
+            "example_2": "Chcę odkryć nowe miejsca."
+        },
+        {
+            "language1": "lavorare",
+            "language2": "pracować",
+            "example_1": "Lavoro da casa il lunedì.",
+            "example_2": "Pracuję z domu w poniedziałki."
+        },
+        {
+            "language1": "dormire",
+            "language2": "spać",
+            "example_1": "Non riesco a dormire bene.",
+            "example_2": "Nie potrafię dobrze spać."
+        },
+        {
+            "language1": "scrivere",
+            "language2": "pisać",
+            "example_1": "Devo scrivere una mail.",
+            "example_2": "Muszę napisać maila."
+        },
+        {
+            "language1": "leggere",
+            "language2": "czytać",
+            "example_1": "Mi piace leggere prima di dormire.",
+            "example_2": "Lubię czytać przed snem."
+        },
+        {
+            "language1": "parlare",
+            "language2": "mówić",
+            "example_1": "Parliamo dopo la riunione.",
+            "example_2": "Porozmawiamy po spotkaniu."
+        },
+        {
+            "language1": "guardare",
+            "language2": "oglądać",
+            "example_1": "Stasera guardo un film.",
+            "example_2": "Dziś wieczorem oglądam film."
+        },
+        {
+            "language1": "ascoltare",
+            "language2": "słuchać",
+            "example_1": "Ascolto musica mentre cucino.",
+            "example_2": "Słucham muzyki, gdy gotuję."
+        },
+        {
+            "language1": "correre",
+            "language2": "biegać",
+            "example_1": "Corro al parco ogni mattina.",
+            "example_2": "Biegam w parku każdego ranka."
+        },
+        {
+            "language1": "viaggiare",
+            "language2": "podróżować",
+            "example_1": "Vorrei viaggiare di più.",
+            "example_2": "Chcę podróżować więcej."
+        },
+        {
+            "language1": "studiare",
+            "language2": "studiować",
+            "example_1": "Devo studiare per l'esame.",
+            "example_2": "Muszę się uczyć do egzaminu."
+        },
+        {
+            "language1": "insegnare",
+            "language2": "uczyć",
+            "example_1": "Lei insegna matematica.",
+            "example_2": "Ona uczy matematyki."
+        },
+        {
+            "language1": "imparare",
+            "language2": "uczyć się",
+            "example_1": "Sto cercando di imparare il polacco.",
+            "example_2": "Próbuję uczyć się polskiego."
+        },
+        {
+            "language1": "vivere",
+            "language2": "żyć",
+            "example_1": "Voglio vivere bene.",
+            "example_2": "Chcę dobrze żyć."
+        },
+        {
+            "language1": "morire",
+            "language2": "umrzeć",
+            "example_1": "Il personaggio muore alla fine.",
+            "example_2": "Bohater umiera na końcu."
+        },
+        {
+            "language1": "comprare",
+            "language2": "kupić",
+            "example_1": "Voglio comprare un nuovo telefono.",
+            "example_2": "Chcę kupić nowy telefon."
+        },
+        {
+            "language1": "vendere",
+            "language2": "sprzedać",
+            "example_1": "Loro vendono frutta al mercato.",
+            "example_2": "Oni sprzedają owoce na targu."
+        },
+        {
+            "language1": "mangiare",
+            "language2": "jeść",
+            "example_1": "Abbiamo mangiato insieme ieri.",
+            "example_2": "Wczoraj jedliśmy razem."
+        },
+        {
+            "language1": "bere",
+            "language2": "pić",
+            "example_1": "Beviamo un caffè dopo pranzo?",
+            "example_2": "Wypijemy kawę po obiedzie?"
+        },
+        {
+            "language1": "guidare",
+            "language2": "prowadzić",
+            "example_1": "So guidare ma non ho una macchina.",
+            "example_2": "Umiem prowadzić, ale nie mam samochodu."
+        },
+        {
+            "language1": "camminare",
+            "language2": "chodzić",
+            "example_1": "Mi piace camminare in montagna.",
+            "example_2": "Lubię chodzić po górach."
+        },
+        {
+            "language1": "volare",
+            "language2": "latać",
+            "example_1": "Gli uccelli sanno volare lontano.",
+            "example_2": "Ptaki potrafią latać daleko."
+        },
+        {
+            "language1": "nuotare",
+            "language2": "pływać",
+            "example_1": "In estate mi piace nuotare nel lago.",
+            "example_2": "Latem lubię pływać w jeziorze."
+        },
+        {
+            "language1": "ballare",
+            "language2": "tańczyć",
+            "example_1": "Abbiamo ballato tutta la notte.",
+            "example_2": "Tańczyliśmy całą noc."
+        },
+        {
+            "language1": "cantare",
+            "language2": "śpiewać",
+            "example_1": "Lei sa cantare molto bene.",
+            "example_2": "Ona potrafi bardzo dobrze śpiewać."
+        },
+        {
+            "language1": "pensare",
+            "language2": "myśleć",
+            "example_1": "A volte penso troppo.",
+            "example_2": "Czasem za dużo myślę."
+        },
+        {
+            "language1": "amare",
+            "language2": "kochać",
+            "example_1": "Lui ama la sua famiglia.",
+            "example_2": "On kocha swoją rodzinę."
+        },
+        {
+            "language1": "odiar",
+            "language2": "nienawidzić",
+            "example_1": "Non voglio odiare nessuno.",
+            "example_2": "Nie chcę nikogo nienawidzić."
+        },
+        {
+            "language1": "desiderare",
+            "language2": "pragnąć",
+            "example_1": "Desidero un po' di pace.",
+            "example_2": "Pragnę odrobiny spokoju."
+        },
+        {
+            "language1": "sperare",
+            "language2": "mieć nadzieję",
+            "example_1": "Spero che tu stia bene.",
+            "example_2": "Mam nadzieję, że u ciebie wszystko w porządku."
+        },
+        {
+            "language1": "pregare",
+            "language2": "modlić się",
+            "example_1": "La sera prego in silenzio.",
+            "example_2": "Wieczorem modlę się w ciszy."
+        },
+        {
+            "language1": "piangere",
+            "language2": "płakać",
+            "example_1": "Ha iniziato a piangere senza motivo.",
+            "example_2": "Zaczął płakać bez powodu."
+        },
+        {
+            "language1": "ridere",
+            "language2": "śmiać się",
+            "example_1": "Ridevano di gusto.",
+            "example_2": "Śmiali się do rozpuku."
+        },
+        {
+            "language1": "sorridere",
+            "language2": "uśmiechać się",
+            "example_1": "Mi ha fatto sorridere.",
+            "example_2": "To wywołało uśmiech na mojej twarzy."
+        },
+        {
+            "language1": "bambino",
+            "language2": "dziecko",
+            "example_1": "Il bambino gioca in giardino.",
+            "example_2": "Dziecko bawi się w ogrodzie."
+        },
+        {
+            "language1": "bambina",
+            "language2": "dziewczynka",
+            "example_1": "La bambina disegna un fiore.",
+            "example_2": "Dziewczynka rysuje kwiatek."
+        },
+        {
+            "language1": "uomo",
+            "language2": "mężczyzna",
+            "example_1": "L'uomo aspetta l'autobus.",
+            "example_2": "Mężczyzna czeka na autobus."
+        },
+        {
+            "language1": "donna",
+            "language2": "kobieta",
+            "example_1": "La donna legge il giornale.",
+            "example_2": "Kobieta czyta gazetę."
+        },
+        {
+            "language1": "vecchio",
+            "language2": "stary",
+            "example_1": "Questo libro è molto vecchio.",
+            "example_2": "Ta książka jest bardzo stara."
+        },
+        {
+            "language1": "giovane",
+            "language2": "młody",
+            "example_1": "È ancora molto giovane.",
+            "example_2": "Jest jeszcze bardzo młody."
+        },
+        {
+            "language1": "grande",
+            "language2": "duży",
+            "example_1": "La città è grande e rumorosa.",
+            "example_2": "Miasto jest duże i hałaśliwe."
+        },
+        {
+            "language1": "piccolo",
+            "language2": "mały",
+            "example_1": "È un passo piccolo ma importante.",
+            "example_2": "To mały, ale ważny krok."
+        },
+        {
+            "language1": "veloce",
+            "language2": "szybki",
+            "example_1": "La tua risposta è stata veloce.",
+            "example_2": "Twoja odpowiedź była szybka."
+        },
+        {
+            "language1": "lento",
+            "language2": "wolny",
+            "example_1": "Il treno oggi è molto lento.",
+            "example_2": "Pociąg jest dziś bardzo wolny."
+        },
+        {
+            "language1": "caldo",
+            "language2": "ciepły",
+            "example_1": "Fa caldo in questa stanza.",
+            "example_2": "W tym pokoju jest gorąco."
+        },
+        {
+            "language1": "freddo",
+            "language2": "zimny",
+            "example_1": "L'acqua è troppo fredda.",
+            "example_2": "Woda jest zbyt zimna."
+        },
+        {
+            "language1": "bianco",
+            "language2": "biały",
+            "example_1": "Preferisco il vino bianco.",
+            "example_2": "Wolę białe wino."
+        },
+        {
+            "language1": "nero",
+            "language2": "czarny",
+            "example_1": "Ho comprato un cappotto nero.",
+            "example_2": "Kupiłem czarny płaszcz."
+        },
+        {
+            "language1": "rosso",
+            "language2": "czerwony",
+            "example_1": "Il semaforo è rosso.",
+            "example_2": "Światło jest czerwone."
+        },
+        {
+            "language1": "verde",
+            "language2": "zielony",
+            "example_1": "Mi piace il tè verde.",
+            "example_2": "Lubię zieloną herbatę."
+        },
+        {
+            "language1": "blu",
+            "language2": "niebieski",
+            "example_1": "Ha gli occhi blu.",
+            "example_2": "Ma niebieskie oczy."
+        },
+        {
+            "language1": "giallo",
+            "language2": "żółty",
+            "example_1": "Il sole è giallo.",
+            "example_2": "Słońce jest żółte."
+        },
+        {
+            "language1": "arancione",
+            "language2": "pomarańczowy",
+            "example_1": "Ho una sciarpa arancione.",
+            "example_2": "Mam pomarańczowy szalik."
+        },
+        {
+            "language1": "viola",
+            "language2": "fioletowy",
+            "example_1": "Mi piacciono i fiori viola.",
+            "example_2": "Lubię fioletowe kwiaty."
+        },
+        {
+            "language1": "rosa",
+            "language2": "różowy",
+            "example_1": "La camicia rosa è elegante.",
+            "example_2": "Różowa koszula jest elegancka."
+        },
+        {
+            "language1": "marrone",
+            "language2": "brązowy",
+            "example_1": "Il tavolo è marrone.",
+            "example_2": "Stół jest brązowy."
+        },
+        {
+            "language1": "grigio",
+            "language2": "szary",
+            "example_1": "Il cielo oggi è grigio.",
+            "example_2": "Niebo jest dziś szare."
+        },
+        {
+            "language1": "azzurro",
+            "language2": "błękitny",
+            "example_1": "Il mare è azzurro e calmo.",
+            "example_2": "Morze jest błękitne i spokojne."
+        },
+        {
+            "language1": "facile",
+            "language2": "łatwy",
+            "example_1": "Non è così facile come sembra.",
+            "example_2": "To nie jest tak łatwe, jak się wydaje."
+        },
+        {
+            "language1": "difficile",
+            "language2": "trudny",
+            "example_1": "Questo problema è difficile.",
+            "example_2": "Ten problem jest trudny."
+        },
+        {
+            "language1": "carino",
+            "language2": "ładny",
+            "example_1": "Che cane carino!",
+            "example_2": "Jaki ładny pies!"
+        },
+        {
+            "language1": "brutto",
+            "language2": "brzydki",
+            "example_1": "Il tempo è brutto oggi.",
+            "example_2": "Dziś jest brzydka pogoda."
+        },
+        {
+            "language1": "intelligente",
+            "language2": "inteligentny",
+            "example_1": "È una persona molto intelligente.",
+            "example_2": "To bardzo inteligentna osoba."
+        },
+        {
+            "language1": "stupido",
+            "language2": "głupi",
+            "example_1": "È stato un errore stupido.",
+            "example_2": "To był głupi błąd."
+        },
+        {
+            "language1": "felice",
+            "language2": "szczęśliwy",
+            "example_1": "Sono felice per te.",
+            "example_2": "Cieszę się z twojego powodu."
+        },
+        {
+            "language1": "triste",
+            "language2": "smutny",
+            "example_1": "Mi sento triste oggi.",
+            "example_2": "Dziś czuję się smutny."
+        },
+        {
+            "language1": "contento",
+            "language2": "zadowolony",
+            "example_1": "Sono contento del risultato.",
+            "example_2": "Jestem zadowolony z wyniku."
+        },
+        {
+            "language1": "arrabbiato",
+            "language2": "zły",
+            "example_1": "Ero arrabbiato, ma ora sto meglio.",
+            "example_2": "Byłem zły, ale teraz czuję się lepiej."
+        },
+        {
+            "language1": "nervoso",
+            "language2": "nerwowy",
+            "example_1": "Sono un po' nervoso per l'intervista.",
+            "example_2": "Jestem trochę nerwowy przed rozmową."
+        },
+        {
+            "language1": "tranquillo",
+            "language2": "spokojny",
+            "example_1": "Restiamo tranquilli e parliamone.",
+            "example_2": "Zachowajmy spokój i porozmawiajmy o tym."
+        },
+        {
+            "language1": "timido",
+            "language2": "nieśmiały",
+            "example_1": "Da bambino ero timido.",
+            "example_2": "Jako dziecko byłem nieśmiały."
+        },
+        {
+            "language1": "coraggioso",
+            "language2": "odważny",
+            "example_1": "È stato un gesto coraggioso.",
+            "example_2": "To był odważny gest."
+        },
+        {
+            "language1": "simpatico",
+            "language2": "miły",
+            "example_1": "Il tuo vicino è molto simpatico.",
+            "example_2": "Twój sąsiad jest bardzo miły."
+        },
+        {
+            "language1": "antipatico",
+            "language2": "niemiły",
+            "example_1": "Quel commento è stato antipatico.",
+            "example_2": "Ten komentarz był niemiły."
+        },
+        {
+            "language1": "gentile",
+            "language2": "uprzejmy",
+            "example_1": "Sei molto gentile, grazie.",
+            "example_2": "Jesteś bardzo uprzejmy, dziękuję."
+        },
+        {
+            "language1": "scortese",
+            "language2": "nieuprzejmy",
+            "example_1": "È scortese interrompere gli altri.",
+            "example_2": "To nieuprzejme przerywać innym."
+        },
+        {
+            "language1": "bicicletta",
+            "language2": "rower",
+            "example_1": "Ho comprato una nuova bicicletta.",
+            "example_2": "Kupiłem nowy rower."
+        },
+        {
+            "language1": "telefono",
+            "language2": "telefon",
+            "example_1": "Il mio telefono è scarico.",
+            "example_2": "Mój telefon jest rozładowany."
+        },
+        {
+            "language1": "notte",
+            "language2": "noc",
+            "example_1": "La notte è silenziosa.",
+            "example_2": "Noc jest cicha."
+        },
+        {
+            "language1": "giorno",
+            "language2": "dzień",
+            "example_1": "È stato un giorno lungo.",
+            "example_2": "To był długi dzień."
+        },
+        {
+            "language1": "albero",
+            "language2": "drzewo",
+            "example_1": "C'è un albero alto nel giardino.",
+            "example_2": "W ogrodzie jest wysokie drzewo."
+        },
+        {
+            "language1": "mare",
+            "language2": "morze",
+            "example_1": "Mi piace nuotare nel mare.",
+            "example_2": "Lubię pływać w morzu."
+        },
+        {
+            "language1": "montagna",
+            "language2": "góra",
+            "example_1": "Abbiamo scalato la montagna.",
+            "example_2": "Wspięliśmy się na górę."
+        },
+        {
+            "language1": "fiume",
+            "language2": "rzeka",
+            "example_1": "Il fiume scorre velocemente.",
+            "example_2": "Rzeka płynie szybko."
+        },
+        {
+            "language1": "sole",
+            "language2": "słońce",
+            "example_1": "Il sole splende forte oggi.",
+            "example_2": "Słońce dziś mocno świeci."
+        },
+        {
+            "language1": "pioggia",
+            "language2": "deszcz",
+            "example_1": "Oggi cade molta pioggia.",
+            "example_2": "Dzisiaj pada dużo deszczu."
+        },
+        {
+            "language1": "neve",
+            "language2": "śnieg",
+            "example_1": "La neve copre tutto il paese.",
+            "example_2": "Śnieg pokrywa całą okolicę."
+        },
+        {
+            "language1": "vento",
+            "language2": "wiatr",
+            "example_1": "Il vento è freddo e forte.",
+            "example_2": "Wiatr jest zimny i silny."
+        },
+        {
+            "language1": "nuvola",
+            "language2": "chmura",
+            "example_1": "Guarda quella nuvola strana!",
+            "example_2": "Spójrz na tę dziwną chmurę!"
+        },
+        {
+            "language1": "cielo",
+            "language2": "niebo",
+            "example_1": "Il cielo è azzurro oggi.",
+            "example_2": "Niebo jest dziś błękitne."
+        },
+        {
+            "language1": "stella",
+            "language2": "gwiazda",
+            "example_1": "La stella brilla nel cielo.",
+            "example_2": "Gwiazda świeci na niebie."
+        },
+        {
+            "language1": "luna",
+            "language2": "księżyc",
+            "example_1": "La luna è piena stanotte.",
+            "example_2": "Księżyc jest dziś w pełni."
+        },
+        {
+            "language1": "scarpa",
+            "language2": "but",
+            "example_1": "Questa scarpa è comoda.",
+            "example_2": "Ten but jest wygodny."
+        },
+        {
+            "language1": "giacca",
+            "language2": "kurtka",
+            "example_1": "Indosso la giacca rossa.",
+            "example_2": "Noszę czerwoną kurtkę."
+        },
+        {
+            "language1": "pantaloni",
+            "language2": "spodnie",
+            "example_1": "Questi pantaloni sono nuovi.",
+            "example_2": "Te spodnie są nowe."
+        },
+        {
+            "language1": "camicia",
+            "language2": "koszula",
+            "example_1": "La camicia è stirata.",
+            "example_2": "Koszula jest wyprasowana."
+        },
+        {
+            "language1": "tavolo",
+            "language2": "stół",
+            "example_1": "Metti il libro sul tavolo.",
+            "example_2": "Połóż książkę na stole."
+        },
+        {
+            "language1": "sedia",
+            "language2": "krzesło",
+            "example_1": "Quella sedia è rotta.",
+            "example_2": "To krzesło jest zepsute."
+        },
+        {
+            "language1": "finestra",
+            "language2": "okno",
+            "example_1": "Apri la finestra, per favore.",
+            "example_2": "Otwórz okno, proszę."
+        },
+        {
+            "language1": "porta",
+            "language2": "drzwi",
+            "example_1": "Chiudi la porta.",
+            "example_2": "Zamknij drzwi."
+        },
+        {
+            "language1": "letto",
+            "language2": "łóżko",
+            "example_1": "Il letto è molto comodo.",
+            "example_2": "Łóżko jest bardzo wygodne."
+        },
+        {
+            "language1": "cuscino",
+            "language2": "poduszka",
+            "example_1": "Ho bisogno di un cuscino morbido.",
+            "example_2": "Potrzebuję miękkiej poduszki."
+        },
+        {
+            "language1": "coperta",
+            "language2": "koc",
+            "example_1": "La coperta è calda.",
+            "example_2": "Koc jest ciepły."
+        },
+        {
+            "language1": "lampada",
+            "language2": "lampa",
+            "example_1": "Accendi la lampada.",
+            "example_2": "Włącz lampę."
+        },
+        {
+            "language1": "specchio",
+            "language2": "lustro",
+            "example_1": "Guarda nello specchio.",
+            "example_2": "Spójrz w lustro."
+        },
+        {
+            "language1": "orologio",
+            "language2": "zegar",
+            "example_1": "L’orologio è fermo.",
+            "example_2": "Zegar się zatrzymał."
+        },
+        {
+            "language1": "cucchiaio",
+            "language2": "łyżka",
+            "example_1": "Passami il cucchiaio.",
+            "example_2": "Podaj mi łyżkę."
+        },
+        {
+            "language1": "forchetta",
+            "language2": "widelec",
+            "example_1": "Usa la forchetta per mangiare.",
+            "example_2": "Użyj widelca do jedzenia."
+        },
+        {
+            "language1": "coltello",
+            "language2": "nóż",
+            "example_1": "Taglia il pane con il coltello.",
+            "example_2": "Pokrój chleb nożem."
+        },
+        {
+            "language1": "piatto",
+            "language2": "talerz",
+            "example_1": "Il piatto è sporco.",
+            "example_2": "Talerz jest brudny."
+        },
+        {
+            "language1": "bicchiere",
+            "language2": "szklanka",
+            "example_1": "Riempimi il bicchiere, per favore.",
+            "example_2": "Napełnij mi szklankę, proszę."
+        },
+        {
+            "language1": "tazza",
+            "language2": "kubek",
+            "example_1": "Bevo il tè in una tazza.",
+            "example_2": "Piję herbatę z kubka."
+        },
+        {
+            "language1": "acqua",
+            "language2": "woda",
+            "example_1": "Bevo molta acqua.",
+            "example_2": "Piję dużo wody."
+        },
+        {
+            "language1": "vino",
+            "language2": "wino",
+            "example_1": "Preferisco il vino rosso.",
+            "example_2": "Wolę czerwone wino."
+        },
+        {
+            "language1": "caffè",
+            "language2": "kawa",
+            "example_1": "Prendo un caffè ogni mattina.",
+            "example_2": "Codziennie rano piję kawę."
+        },
+        {
+            "language1": "latte",
+            "language2": "mleko",
+            "example_1": "Il latte è nel frigo.",
+            "example_2": "Mleko jest w lodówce."
+        },
+        {
+            "language1": "pane",
+            "language2": "chleb",
+            "example_1": "Taglio il pane fresco.",
+            "example_2": "Kroję świeży chleb."
+        },
+        {
+            "language1": "burro",
+            "language2": "masło",
+            "example_1": "Spalma il burro sul pane.",
+            "example_2": "Posmaruj chleb masłem."
+        },
+        {
+            "language1": "formaggio",
+            "language2": "ser",
+            "example_1": "Il formaggio è stagionato.",
+            "example_2": "Ser jest dojrzewający."
+        },
+        {
+            "language1": "frutta",
+            "language2": "owoce",
+            "example_1": "Mangio molta frutta.",
+            "example_2": "Jem dużo owoców."
+        }
+    ]
+}

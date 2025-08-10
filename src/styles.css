@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.flashcard {
+    background-color: whitesmoke;
+    border: 1px solid #000;
+    border-radius: 10px; /* Slightly more rounded corners */
+    padding: 30px; /* Increase padding for more spacing */
+    margin: 20px;
+    width: 600px; /* Increase width */
+    height: 400px; /* Increase height */
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 2em; /* Increase base font size */
+}
+
+.flashcard:hover {
+    background-color: #eaeaea;
+}
+
+.flashcard div {
+    margin: 10px 0; /* Add spacing between word and sentence */
+}
+
+.flashcard .word {
+    font-size: 2.5em; /* Larger font size for the word */
+    font-weight: bold;
+}
+
+.flashcard .example {
+    font-size: 1.5em; /* Slightly smaller font size for the example */
+    font-style: italic;
+    margin-top: 20px; /* Add space between word and example */
+}
+
+.hidden {
+    display: none;
+}
+
+.revealed {
+    display: block;
+    color: #007BFF;
+}
